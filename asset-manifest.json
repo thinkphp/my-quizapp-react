@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/my-quizapp-react/static/js/main.c6cade25.js",
+    "index.html": "/my-quizapp-react/index.html",
+    "main.c6cade25.js.map": "/my-quizapp-react/static/js/main.c6cade25.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c6cade25.js"
+  ]
+}
